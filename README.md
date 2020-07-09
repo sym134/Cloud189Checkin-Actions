@@ -1,5 +1,6 @@
 # Cloud189Checkin
-天翼云盘每日签到一次，抽奖2次  
+天翼云盘每日签到一次，抽奖2次 
+
 使用方法  
 1.测试环境为python3.7.6,自行安装python3  
 2.requirements.txt 是所需第三方模块，执行 `pip install -r requirements.txt` 安装模块  
@@ -62,3 +63,4 @@ Actions > Cloud189Checkin > build
 这次密码泄露，我算是始作俑者，同时也是这个问题的受害者(我的密码也一样有泄露的风险)。  
 ### 再次表示歉意！
 ### 请务必尽快修改天翼云盘密码！删除Fork的仓库！
+
